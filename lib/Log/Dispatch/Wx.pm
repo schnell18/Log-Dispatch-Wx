@@ -6,7 +6,7 @@ use base qw(Log::Dispatch::Output);
 
 use Wx;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub new {
     my( $class, %p ) = @_;

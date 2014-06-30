@@ -2,3 +2,6 @@ Revision history for Perl extension Log::Dispatch::Wx.
 
 0.01  
 	- First release.
+
+0.02
+	- Switch to ExtUtils::MakeMaker to enable install on Perl 5.10+
